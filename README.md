@@ -1,3 +1,7 @@
+
+
+**动态图**很厉害啊！
+
 This repository introduces the fundamental concepts of
 [PyTorch](https://github.com/pytorch/pytorch)
 through self-contained examples.
